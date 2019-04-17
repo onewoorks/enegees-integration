@@ -13,8 +13,8 @@ Sample No,Patient ID,Name,Well,Target,Result,Auto interpretation,Remarks,Test Ki
 ,,,,68,-,,,
 ,,,,31,-,,,
 ,,,,IC,++,,,
-2,89234124,L1872,B01,66,-,High-Risk HPV,"39, 52",Anyplex || HPV HR Detection (96 plate)
-,,,,45,,,,
+2,89234124,L1872,B01,66,OKE,High-Risk HPV,"39, 52",Anyplex || HPV HR Detection (96 plate)
+,,,,45,XX,,,
 ,,,,58,,,,
 ,,,,51,,,,
 ,,,,59,,,,
